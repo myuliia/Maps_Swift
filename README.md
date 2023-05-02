@@ -24,5 +24,4 @@ iOS 13.0 or later
 4. Pinch and zoom to explore the map.
 5. Tap on a pin to view more information about the location.
 
-![custom_resized_2a66da66-85e7-4283-b9ed-45ea787ee3fe](https://user-images.githubusercontent.com/46928016/235665761-7e134558-db3f-4fd7-99bd-a7f65d7b0409.png)
-![Uploading custom_resized_a7627225-d2a5-43c2-bda4-10b9fe6efb77.png…]()
+![imgonline-com-ua-Resize-hZVWlIXjH8](https://user-images.githubusercontent.com/46928016/235666233-b1771d53-c029-4a61-ad2d-784e49cb75c8.jpg) ![imgonline-com-ua-Resize-K4WX2rMg7UcZHl](https://user-images.githubusercontent.com/46928016/235666245-a60bbdda-9df5-4f51-8224-d4332e4b5e0e.jpg)
